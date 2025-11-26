@@ -1,4 +1,6 @@
 // TODO: Create a variable called 'name' and assign it your name
-let name = "John";
 // TODO: Print it using console.log()
+
+
+let name= "Joselyn";
 console.log(name);
